@@ -17,7 +17,7 @@
 <details><summary>Dᴇᴘᴏʟʏ Tᴏ Kᴏʏᴇʙ</summary>
 <p>
 <br>
-<a href="https://app.koyeb.com/deploy?type=git&repository=github.com/narutooxox/RolexTG">
+
   <img src="https://www.koyeb.com/static/images/deploy/button.svg" alt="deploy-to-koyeb">
   </a
   </p>
