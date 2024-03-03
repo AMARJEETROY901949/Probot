@@ -34,7 +34,9 @@
 <details><summary>Dᴇᴘᴏʟʏ Tᴏ Rᴇɴᴅᴇʀ</summary>
 <p>
 <br>
-<a href="https://dashboard.render.com/blueprint/new?repo=https://github.com/narutooxox/RolexTG">
+<a (https://www.herokucdn.com/deploy/button.svg)]
+  repo=https://github.com/AMARJEETROY901949/Probot">
+
   <img src="https://render.com/images/deploy-to-render-button.svg" alt="deploy-to-render">
   </a>
   </p>
